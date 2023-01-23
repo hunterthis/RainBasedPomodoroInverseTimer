@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversePomodoro", "ReversePomodoro.csproj", "{3A778C5A-885E-43A5-ABF8-1A273E2BA9FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A778C5A-885E-43A5-ABF8-1A273E2BA9FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A778C5A-885E-43A5-ABF8-1A273E2BA9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A778C5A-885E-43A5-ABF8-1A273E2BA9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A778C5A-885E-43A5-ABF8-1A273E2BA9FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED02DCE1-6E8E-4C9D-AE5E-9AE6CCF93A1D}
+	EndGlobalSection
+EndGlobal
